@@ -137,7 +137,7 @@ sup {
 
 sub,
 sup {
-  font-size: 0.75rem;
+  font-size: 0.75em;
 }
 
 html {
@@ -435,11 +435,6 @@ body {
   inset: 0;
   box-shadow: none;
 }
-
-
-/*-----------------------------------*\
-  #CURRENT WEATHER
-\*-----------------------------------*/
 
 
 
